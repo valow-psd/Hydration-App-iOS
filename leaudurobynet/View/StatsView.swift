@@ -31,7 +31,7 @@ struct StatsView: View {
         NavigationView{
             VStack {
                 HStack{
-                    Text("Ajouter une conso")
+                    Text("Les stats et objectifs")
                         .font(.custom("Roboto-Regular", size: 24))
                         .padding(.leading, 5)
                     

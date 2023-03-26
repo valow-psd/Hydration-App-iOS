@@ -17,7 +17,7 @@ struct PoidsView: View {
         VStack(spacing: 20) {
             
             // Header
-            Text("VOTRE Poids")
+            Text("VOTRE POIDS")
                 .font(.largeTitle)
                 .bold()
                 .padding(.vertical)
